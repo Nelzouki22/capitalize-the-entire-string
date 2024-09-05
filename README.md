@@ -1,0 +1,1 @@
+# capitalize the entire string
